@@ -7,7 +7,7 @@ This is a simple path searching algorithms (A*, Best first and Breadth first sea
 - [Breadth first search](#breadth-first-search)
 
 ## Sample User Interface
-![a star](https://github.com/yujune/Maze/blob/master/screenshots/HomeMae.PNG)
+![a star](https://github.com/yujune/Maze/blob/master/screenshots/HomeMaze.PNG)
 ![level](https://github.com/yujune/Maze/blob/master/screenshots/levelMaze.PNG)
 
 ### A* algorithm
@@ -22,7 +22,18 @@ This is a simple path searching algorithms (A*, Best first and Breadth first sea
 #### A* Level 5
 ![A* level 5](https://github.com/yujune/Maze/blob/master/screenshots/Astar5.gif)
 
-### Best first search
+### Best first search algorithm
+#### Best first search Level 1
+![Best first search level 1](https://github.com/yujune/Maze/blob/master/screenshots/BestFirst1.gif)
+#### Best first search Level 2
+![Best first search level 2](https://github.com/yujune/Maze/blob/master/screenshots/BestFirst2.gif)
+#### Best first search Level 3
+![Best first search level 3](https://github.com/yujune/Maze/blob/master/screenshots/BestFirst3.gif)
+#### Best first search Level 4
+![Best first search level 4](https://github.com/yujune/Maze/blob/master/screenshots/BestFirst4.gif)
+#### Best first search Level 5
+![Best first search level 5](https://github.com/yujune/Maze/blob/master/screenshots/BestFirst5.gif)
+
 
 ### Breadth first search
 ![breadth first]()
