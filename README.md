@@ -35,6 +35,15 @@ This is a simple path searching algorithms (A*, Best first and Breadth first sea
 ![Best first search level 5](https://github.com/yujune/Maze/blob/master/screenshots/BestFirst5.gif)
 
 
-### Breadth first search
-![breadth first]()
+### Breadth first search algorithm
+#### Breadth first search Level 1
+![Breadth first search level 1](https://github.com/yujune/Maze/blob/master/screenshots/BreadthFirst1.gif)
+#### Breadth first search Level 2
+![Breadth first search level 2](https://github.com/yujune/Maze/blob/master/screenshots/BreadthFirst2.gif)
+#### Breadth first search Level 3
+![Breadth first search level 3](https://github.com/yujune/Maze/blob/master/screenshots/BreadthFirst3.gif)
+#### Breadth first search Level 4
+![Breadth first search level 4](https://github.com/yujune/Maze/blob/master/screenshots/BreadthFirst4.gif)
+#### Breadth first search Level 5
+![Breadth first search level 5](https://github.com/yujune/Maze/blob/master/screenshots/BreadthFirst5.gif)
 
