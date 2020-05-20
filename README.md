@@ -2,7 +2,7 @@
 This is a simple path searching algorithms (A*, Best first and Breadth first search) demonstration. 
 
 ## Path finding algorithms
-- [A*](#a*-algorithm)
+- [A*](#a-algorithm)
 - [Best first search](#best-first-search-algorithm)
 - [Breadth first search](#breadth-first-search-algorithm)
 
