@@ -2,9 +2,9 @@
 This is a simple path searching algorithms (A*, Best first and Breadth first search) demonstration. 
 
 ## Path finding algorithms
-- [A*](#a)
-- [Best first search](#best-first-search)
-- [Breadth first search](#breadth-first-search)
+- [A*](#a*_algorithm)
+- [Best first search](#best-first-search_algorithm)
+- [Breadth first search](#breadth-first-search_algorithm)
 
 ## Sample User Interface
 ![a star](https://github.com/yujune/Maze/blob/master/screenshots/HomeMaze.PNG)
