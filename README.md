@@ -11,6 +11,7 @@ This is a simple path searching algorithms (A*, Best first and Breadth first sea
 ![level](https://github.com/yujune/Maze/blob/master/screenshots/levelMaze.PNG)
 
 ### A*
+![A* level 1](https://github.com/yujune/Maze/blob/master/screenshots/Astar1.gif)
 
 ### Best first search
 
