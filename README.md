@@ -25,5 +25,5 @@ This is a simple path searching algorithms (A*, Best first and Breadth first sea
 ### Best first search
 
 ### Breadth first search
-![breadth first](https://github.com/yujune/Maze/blob/master/screenshots/2020-05-20%2019-53-53_Trim.gif)
+![breadth first]()
 
